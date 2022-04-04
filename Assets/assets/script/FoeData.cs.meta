@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 375bd7e30c15be440991fdaea19cb4bb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ghostly: {fileID: 8300000, guid: c9e3831c34ff7534a9d9749c4769b845, type: 3}
+  - nights: {fileID: 8300000, guid: 2d933a68abe545044b633c534eae8398, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
